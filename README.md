@@ -2,6 +2,8 @@
 
 Assigment 2
 
+(Scripts Only)
+
 Course videogame Design
 Software used:
 Krita for textures
